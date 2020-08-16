@@ -1,0 +1,17 @@
+{
+  "name": "gitscript",
+  "version": "1.0.0",
+  "description": "一个帮助git发布的脚本库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "mygit": "git.js"
+  },
+  "author": "qiji",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^6.0.0"
+  }
+}
