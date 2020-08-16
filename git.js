@@ -1,11 +1,3 @@
-/*
- * @Author: your name
- * @Date: 2020-08-16 21:02:36
- * @LastEditTime: 2020-08-16 21:07:30
- * @LastEditors: Please set LastEditors
- * @Description: In User Settings Edit
- * @FilePath: \myNodejs\git.js
- */
 #!/usr/bin/env node
 
 const {program} = require('commander')
